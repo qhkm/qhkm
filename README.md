@@ -1,146 +1,119 @@
-Hi, I'm Qaiyyum Hakimi 👋
+# Hi, I'm Qaiyyum Hakimi 👋
 
-📍 Malaysia
-🤖 AI-native builder
-🚀 Founder @ Aisar AI
+📍 Malaysia  
+🤖 AI-native builder  
+🚀 Founder @ Aisar AI  
 
-Rust · Go · TypeScript · Swift · Node.js · PostgreSQL · React · Supabase · Docker · LangChain · Edge AI
+**Rust · Go · TypeScript · Swift · Node.js · PostgreSQL · React · Supabase · Docker · LangChain · Edge AI**
 
-I build AI-native tools, SaaS platforms, and developer utilities at high velocity.
-My focus is on agentic systems, local-first tools, and automation software for real businesses — especially in Southeast Asia.
+I build **AI-native tools, SaaS platforms, and developer utilities** at high velocity.  
+My focus is on **agentic systems, local-first tools, and automation software** for real businesses — especially in Southeast Asia.
 
-Previously studied electronics engineering in Japan, now building software full-time and running multiple SaaS and product experiments.
+Previously studied **electronics engineering in Japan**, now building software full-time and running multiple SaaS and product experiments.
 
-🛠 What I'm Building Now
-🤖 AI Agents & SaaS
+---
 
-Aisar.ai – AI agents for customer support and business automation
+## 🛠 What I'm Building Now
 
-Loyca.ai – AI receptionist & loyalty platform for SMEs
+### 🤖 AI Agents & SaaS
+- **Aisar.ai** – AI agents for customer support and business automation  
+- **Loyca.ai** – AI receptionist & loyalty platform for SMEs  
+- **Pantas.ai** – Platform to help creators and businesses sell digital products faster  
+- **StayFlow** – Property and homestay operations SaaS  
+- **GymBro** – Gym and membership CRM  
 
-Pantas.ai – Platform to help creators and businesses sell digital products faster
+---
 
-StayFlow – Property and homestay operations SaaS
+### 🧰 Developer Tools & Utilities
+- **SuperUtils.app** – A bundle of local-first macOS utilities  
+- **ZeptoClaw** – Minimal, secure agent runtime in Rust  
+- **SafeShell** – Secure shell automation tools  
+- **GoConvert** – CLI utilities for fast file processing  
 
-GymBro – Gym and membership CRM
+---
 
-🧰 Developer Tools & Utilities
-
-SuperUtils.app – A bundle of local-first macOS utilities
-
-ZeptoClaw – Minimal, secure agent runtime in Rust
-
-SafeShell – Secure shell automation tools
-
-GoConvert – CLI utilities for fast file processing
-
-🧪 Platforms & Experiments
-
-AI-first document processing systems
-
-WhatsApp-native CRM and sales automation
-
-Queue and booking platforms
-
-Event discovery and listing platforms
+### 🧪 Platforms & Experiments
+- AI-first document processing systems  
+- WhatsApp-native CRM and sales automation  
+- Queue and booking platforms  
+- Event discovery and listing platforms  
 
 I build fast, validate quickly, and ship often.
 
-🎯 Current Focus
+---
 
-Agent runtimes and multi-tenant AI infrastructure
+## 🎯 Current Focus
+- Agent runtimes and multi-tenant AI infrastructure  
+- Local-first and privacy-first software  
+- SaaS distribution and pricing strategy  
+- Rapid prototyping workflows using AI  
+- Building a venture-studio style pipeline for micro-SaaS  
 
-Local-first and privacy-first software
+---
 
-SaaS distribution and pricing strategy
+## ⚙️ How I Work
+- Ship MVPs in **days, not months**  
+- Prefer **simple architectures** over complex ones  
+- Validate with **real customers early**  
+- Build tools I personally use  
 
-Rapid prototyping workflows using AI
+### My default stack lately:
+- **Backend:** Go / Rust / Node  
+- **Frontend:** React / Next.js  
+- **Database:** PostgreSQL / Supabase  
+- **Infrastructure:** Hetzner / Docker  
+- **AI:** OpenAI / local inference  
 
-Building a venture-studio style pipeline for micro-SaaS
+---
 
-⚙️ How I Work
-
-Ship MVPs in days, not months
-
-Prefer simple architectures over complex ones
-
-Validate with real customers early
-
-Build tools I personally use
-
-My default stack lately:
-
-Backend: Go / Rust / Node
-
-Frontend: React / Next.js
-
-Database: PostgreSQL / Supabase
-
-Infrastructure: Hetzner / Docker
-
-AI: OpenAI / local inference
-
-✍️ Writing & Content
-
+## ✍️ Writing & Content
 I share learnings about:
-
-SaaS building
-
-AI workflows
-
-Growth experiments
-
-Rapid prototyping
+- SaaS building  
+- AI workflows  
+- Growth experiments  
+- Rapid prototyping  
 
 Mostly on:
+- Threads  
+- TikTok (**Autoscale.my**)  
+- Workshops and talks  
 
-Threads
+---
 
-TikTok (Autoscale.my)
+## 🚀 What I'm Doing
+- Building multiple SaaS products simultaneously  
+- Running client projects through **Kitakod Ventures**  
+- Designing offers and GTM experiments  
+- Teaching AI and rapid prototyping workshops  
 
-Workshops and talks
+---
 
-🚀 What I'm Doing
-
-Building multiple SaaS products simultaneously
-
-Running client projects through Kitakod Ventures
-
-Designing offers and GTM experiments
-
-Teaching AI and rapid prototyping workshops
-
-🧠 Philosophy
-
-Speed is leverage.
+## 🧠 Philosophy
+**Speed is leverage.**
 
 Small teams with AI can now build what used to require companies.
 
 I believe the future belongs to:
+- Indie hackers  
+- Small focused teams  
+- AI-native builders  
 
-Indie hackers
+---
 
-Small focused teams
+## 🔗 Connect
+🌐 Website: https://qaiyyumhakimi.vercel.app/  
+🏢 Company: Kitakod Ventures  
+💻 GitHub: https://github.com/  
 
-AI-native builders
+---
 
-🔗 Connect
+## 🎲 Random Facts
+- 🇯🇵 Lived in Japan for 5+ years  
+- 🧪 Built 30+ products and prototypes  
+- 🚀 Prefer shipping over planning  
+- 🔁 Constantly experimenting with new ideas  
 
-🌐 Website: https://qaiyyumhakimi.vercel.app/
+---
 
-🏢 Company: Kitakod Ventures
-💻 GitHub: https://github.com/
-
-🎲 Random Facts
-
-🇯🇵 Lived in Japan for 5+ years
-
-🧪 Built 30+ products and prototypes
-
-🚀 Prefer shipping over planning
-
-🔁 Constantly experimenting with new ideas
-
-🏁 Motto
-
-Build fast. Learn fast. Ship faster.
+## 🏁 Motto
+**Build fast. Learn fast. Ship faster.**
