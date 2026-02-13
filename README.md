@@ -1,10 +1,16 @@
 # Hi, I'm Qaiyyum Hakimi 👋
 
-📍 Malaysia  
-🤖 AI-native builder  
-🚀 Founder @ Aisar AI  
+📍 Malaysia | 🤖 AI-native builder | 🚀 Founder @ Aisar AI  
+
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Rust · Go · TypeScript · Swift · Node.js · PostgreSQL · React · Supabase · Docker · LangChain · Edge AI**
+
+> Deep in agentic-engineering mode — building AI runtimes, SaaS systems, and local-first tools designed for speed, simplicity, and scale..
 
 I build **AI-native tools, SaaS platforms, and developer utilities** at high velocity.  
 My focus is on **agentic systems, local-first tools, and automation software** for real businesses — especially in Southeast Asia.
