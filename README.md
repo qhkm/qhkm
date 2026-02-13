@@ -18,9 +18,7 @@ Previously studied **electronics engineering in Japan**, now building software f
 ### 🤖 AI Agents & SaaS
 - **Aisar.ai** – AI agents for customer support and business automation  
 - **Loyca.ai** – AI receptionist & loyalty platform for SMEs  
-- **Pantas.ai** – Platform to help creators and businesses sell digital products faster  
-- **StayFlow** – Property and homestay operations SaaS  
-- **GymBro** – Gym and membership CRM  
+- **Pantas.ai** – Platform to help creators and businesses sell digital products faster
 
 ---
 
@@ -94,7 +92,7 @@ Mostly on:
 Small teams with AI can now build what used to require companies.
 
 I believe the future belongs to:
-- Indie hackers  
+- Indie hackers 
 - Small focused teams  
 - AI-native builders  
 
@@ -108,8 +106,8 @@ I believe the future belongs to:
 ---
 
 ## 🎲 Random Facts
-- 🇯🇵 Lived in Japan for 5+ years  
-- 🧪 Built 30+ products and prototypes  
+- 🇯🇵 Lived in Japan for 10+ years  
+- 🧪 Built 50+ products and prototypes  
 - 🚀 Prefer shipping over planning  
 - 🔁 Constantly experimenting with new ideas  
 
